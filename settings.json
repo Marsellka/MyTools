@@ -1,0 +1,21 @@
+{
+  "status": "enabled",
+  "reason_off": "",
+  "url": "http://monser-tools.ru",
+  "MAX_PLAYERS": 300,
+  "delay": 60,
+  "server_ip": "37.230.228.31",
+  "server_port": 7777,
+  "packet_delay": 15,
+  "vote": "enabled",
+  "vote_title": "Как часто крашит скрипт?",
+  "item1": "Очень часто",
+  "item2": "Часто",
+  "item3": "Редко",
+  "item4": "Очень редко",
+  "item5": "Не крашит совсем",
+  "unix_end": 1638027254,
+  "report": 3,
+  "report_close": 5,
+  "pm": 6
+}
